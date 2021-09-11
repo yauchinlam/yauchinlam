@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yauchinlam
 - 👀 I’m interested in C#, C++,Python, HTML, CSS, Javacscript, and Azure
-- 🌱 I’m currently learning C#, HTML/CSS, and Javascript
+- 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me, DM me
 
