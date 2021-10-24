@@ -24,11 +24,10 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />][R]
+[<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg"/>][R]
  <br />
 ### Tools:
-[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-" />][VS]
+[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>][VS]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSC]
 
 
@@ -48,7 +47,6 @@
 [twitter]: https://twitter.com/LamYauchin
 [youtube]: https://www.youtube.com/channel/UC8kZQmHAmO2gycQxqupX0dg
 [linkedin]: https://www.linkedin.com/in/yauchinlam/
-[VSC]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]:https://en.wikipedia.org/wiki/CSS
 [JS]:https://en.wikipedia.org/wiki/JavaScript
@@ -56,4 +54,5 @@
 [CS]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [R]: https://www.r-project.org/logo/Rlogo.svg
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-
+[VSC]: https://en.wikipedia.org/wiki/Visual_Studio_Code
+[VS]: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
