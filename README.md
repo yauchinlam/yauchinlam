@@ -1,7 +1,7 @@
 ### Hi there, I'm Yauchin Lam - aka [MCChin][website] 👋
 
-[![Website](https://img.shields.io/website?label=Yauchin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/LamYauchin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=Yauchin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sample-yauchinlam.azurewebsites.net/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LamYauchin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LamYauchin)
 
 ## I'm a Developer and US Navy Veteran!!
 
@@ -41,7 +41,7 @@
 
 </details>
 
-[website]: https://dev.azure.com/YauchinLam/
+[website]: https://sample-yauchinlam.azurewebsites.net/
 [twitter]: https://twitter.com/LamYauchin
 [youtube]: https://www.youtube.com/channel/UC8kZQmHAmO2gycQxqupX0dg
 [linkedin]: https://www.linkedin.com/in/yauchinlam/
