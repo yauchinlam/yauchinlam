@@ -58,9 +58,10 @@
 [CS]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [R]: https://en.wikipedia.org/wiki/R_(programming_language)
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[TSQL]:https://en.wikipedia.org/wiki/Transact-SQL
 
 [ArcGIS]: https://en.wikipedia.org/wiki/ArcGIS
-[Eclipse]:
+[Eclipse]:https://en.wikipedia.org/wiki/Eclipse_(software)
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [MATLAB]: https://en.wikipedia.org/wiki/MATLAB
 [NET]:https://en.wikipedia.org/wiki/.NET
