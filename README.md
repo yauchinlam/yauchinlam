@@ -16,11 +16,9 @@
 [<img align="left" alt="Yauchin Lam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  <br />
 ### Languages:
-[<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-" />][CPP]
+[<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>][CPP]
 [<img align="left" alt="CS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />][CS]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-" />][Python]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][Python]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
@@ -52,7 +50,7 @@
 [JS]:https://en.wikipedia.org/wiki/JavaScript
 [CPP]: https://en.wikipedia.org/wiki/C%2B%2B
 [CS]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-[R]: https://www.r-project.org/logo/Rlogo.svg
+[R]: https://en.wikipedia.org/wiki/R_(programming_language)
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [VSC]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [VS]: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
