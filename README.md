@@ -24,6 +24,10 @@
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="CPP" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/8903cd53c9cb14b2df9e02ea33a579c78b17000a/800px-ISO_C++_Logo.svg.png" />][CPP]
 [<img align="left" alt="CS" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/8903cd53c9cb14b2df9e02ea33a579c78b17000a/800px-ISO_C++_Logo.svg.png" />][CS]
+[<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />][R]
+[<img align="left" alt="Python" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />][Python]
+
+
 
 
 <br />
@@ -65,5 +69,6 @@
 [JS]:https://en.wikipedia.org/wiki/JavaScript
 [CPP]: https://en.wikipedia.org/wiki/C%2B%2B
 [CS]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-
+[R]: https://www.r-project.org/logo/Rlogo.svg
+[Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 
