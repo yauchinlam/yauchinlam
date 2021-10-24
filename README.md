@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 ### Connect with me:
 
-[<img align="left" alt="Yauchin Lam | Azure DevOps" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Yauchin Lam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Yauchin Lam | Azure DevOps" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/407px-Crystal_Clear_app_linneighborhood.svg.png" />][website]
+[<img align="left" alt="Yauchin Lam | YouTube" width="22px" src="https://raw.githubusercontent.com/yauchinlam/yauchinlam/main/Images/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 [<img align="left" alt="Yauchin Lam | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="Yauchin Lam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
  <br />
