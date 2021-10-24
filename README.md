@@ -25,6 +25,7 @@
 [<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg"/>][R]
  <br />
 ### Tools:
+[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>][Azure]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>][VS]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSC]
 
@@ -45,6 +46,7 @@
 [twitter]: https://twitter.com/LamYauchin
 [youtube]: https://www.youtube.com/channel/UC8kZQmHAmO2gycQxqupX0dg
 [linkedin]: https://www.linkedin.com/in/yauchinlam/
+[Azure]: https://en.wikipedia.org/wiki/Microsoft_Azure
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]:https://en.wikipedia.org/wiki/CSS
 [JS]:https://en.wikipedia.org/wiki/JavaScript
