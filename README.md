@@ -22,7 +22,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg"/>][R]
-[<img align="left" alt="SSMS" width="26px" src="" />][TSQL]
+[<img align="left" alt="SSMS" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/main/Images/T-SQL.png" />][TSQL]
  <br />
 ### Tools:
 [<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>][Azure]
