@@ -1,6 +1,6 @@
 ### Hi there, I'm Yauchin Lam - aka [MCChin][website] 👋
 
-[![Website](https://img.shields.io/website?label=Yauchin&style=for-the-badge&url=)](https://sample-yauchinlam.azurewebsites.net/)
+[![Website](https://img.shields.io/website?label=Yauchin&style=for-the-badge&url=?style=Website&logo=appveyor)](https://sample-yauchinlam.azurewebsites.net/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LamYauchin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LamYauchin)
 
 ## I'm a Developer and US Navy Veteran!!
