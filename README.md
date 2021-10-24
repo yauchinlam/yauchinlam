@@ -29,10 +29,10 @@
 [<img align="left" alt="ArcGIS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/64px-ArcGIS_logo.png"/>][ArcGIS]
 <<<<<<< HEAD
 [<img align="left" alt="Eclipse" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/main/Images/Eclipse%20logo.png"/>][Eclipse]
-[<img align="left" alt="Linux" width="26px" src="https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][Linux]
+[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][Linux]
 =======
 [<img align="left" alt="Eclipse" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/main/Images/Eclipse%20logo.png"/>][Eclipse]
-[<img align="left" alt="Linux" width="26px" src="https://commons.wikimedia.org/wiki/File:Tux.svg"/>][Linux]
+[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][Linux]
 >>>>>>> 36ad7c3aed96d2b00e9213027f1081b2cacb4743
 [<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" />][MATLAB]
 [<img align="left" alt="NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />][NET]
