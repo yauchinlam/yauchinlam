@@ -5,47 +5,32 @@
 
 ## I'm a Developer and US Navy Veteran!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Machine Language, C# in UNITY, UNREAL Engine in C++, and ArcPy for ArcGIS SDK
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Machine Language in Python and R, UNITY in C#, UNREAL Engine in C++, and ArcPy for ArcGIS SDK in Python
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love COD:Black OPs Cold War
+- ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 ### Connect with me:
 
 [<img align="left" alt="Yauchin Lam | Azure DevOps" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Yauchin Lam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Yauchin Lam | YouTube" width="22px" src="<svg xmlns="http://www.w3.org/2000/svg" />][youtube]
 [<img align="left" alt="Yauchin Lam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Yauchin Lam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  <br />
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSC]
+### Languages:
+[<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+" />][CPP]
+[<img align="left" alt="CS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />][CS]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+" />][Python]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="left" alt="CPP" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/8903cd53c9cb14b2df9e02ea33a579c78b17000a/800px-ISO_C++_Logo.svg.png" />][CPP]
-[<img align="left" alt="CS" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/8903cd53c9cb14b2df9e02ea33a579c78b17000a/800px-ISO_C++_Logo.svg.png" />][CS]
 [<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />][R]
-[<img align="left" alt="Python" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />][Python]
+ <br />
+### Tools:
+[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+" />][VS]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSC]
 
-
-
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [vscode.dev - VS Code In The Browser!!](https://www.youtube.com/watch?v=-5TFQjzEK-8)
-- [STACKr News Weekly: Quit Everything & Start Over 🔃, Stop Procrastinating 🛑, Learn Svelte 🏫](https://www.youtube.com/watch?v=kDdvT8coKwc)
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 <br />
 <br />
