@@ -22,12 +22,13 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg"/>][R]
+[<img align="left" alt="SSMS" width="26px" src="" />][TSQL]
  <br />
 ### Tools:
 [<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>][Azure]
 [<img align="left" alt="ArcGIS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/64px-ArcGIS_logo.png"/>][ArcGIS]
-[<img align="left" alt="Linux" width="26px" src="https://commons.wikimedia.org/wiki/File:Tux.svg
-"/>][Linux]
+[<img align="left" alt="Eclipse" width="26px" src=""/>][Eclipse]
+[<img align="left" alt="Linux" width="26px" src="https://commons.wikimedia.org/wiki/File:Tux.svg"/>][Linux]
 [<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" />][MATLAB]
 [<img align="left" alt="NET" width="26px" src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" />][NET]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>][VS]
@@ -59,6 +60,7 @@
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 
 [ArcGIS]: https://en.wikipedia.org/wiki/ArcGIS
+[Eclipse]:
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [MATLAB]: https://en.wikipedia.org/wiki/MATLAB
 [NET]:https://en.wikipedia.org/wiki/.NET
