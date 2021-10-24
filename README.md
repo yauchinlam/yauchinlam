@@ -25,9 +25,11 @@
  <br />
 ### Tools:
 [<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>][Azure]
+[<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/121px-Matlab_Logo.png" />][MATLAB]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>][VS]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSC]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />][Unity]
+
 
 <br />
 <br />
@@ -43,7 +45,6 @@
 [twitter]: https://twitter.com/LamYauchin
 [youtube]: https://www.youtube.com/channel/UC8kZQmHAmO2gycQxqupX0dg
 [linkedin]: https://www.linkedin.com/in/yauchinlam/
-[Azure]: https://en.wikipedia.org/wiki/Microsoft_Azure
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]:https://en.wikipedia.org/wiki/CSS
 [JS]:https://en.wikipedia.org/wiki/JavaScript
@@ -51,6 +52,9 @@
 [CS]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [R]: https://en.wikipedia.org/wiki/R_(programming_language)
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+
+[MATLAB]: https://en.wikipedia.org/wiki/MATLAB
+[Azure]: https://en.wikipedia.org/wiki/Microsoft_Azure
 [VSC]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [VS]: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 [Unity]:https://en.wikipedia.org/wiki/Unity_(game_engine)
