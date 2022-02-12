@@ -4,7 +4,7 @@
 
 ## I'm a Developer and US Navy Veteran!!
 
-- 🌱 I’m currently learning Machine Language in Python and R, UNITY in C#, UNREAL Engine in C++, and ArcPy for ArcGIS SDK in Python
+- 🌱 I’m currently learning Machine Language in Python and R, UNITY in C#, Open GL using the GLFW and FreeGLUT library and the UNREAL Enginein C++, and ArcPy for ArcGIS SDK in Python
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 ### Connect with me:
