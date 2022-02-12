@@ -5,7 +5,7 @@
 ## I'm a Developer and US Navy Veteran!!
 
 - 🌱 I’m currently learning Machine Language in Python and R, UNITY in C#, Graphics Programming in C++ (Using OpenGL (FreeGLUT/GLFW Library) and the UNREAL Engine) and ArcPy for ArcGIS SDK in Python
-- 🥅 2022 Goals: Place my repos of my implementation of the GLFW Library 
+- 🥅 2022 Goals: Place my repos of my implementation of the GLFW and the FreeGLUT Library 
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 ### Connect with me:
 
