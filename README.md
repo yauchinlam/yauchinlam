@@ -25,6 +25,8 @@
 [<img align="left" alt="SSMS" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/main/Images/T-SQL.png" />][TSQL]
  <br />
 ### Tools:
+
+[<img align="left" alt="Angular" width="26px" src="https://en.wikipedia.org/wiki/Angular_(web_framework)#/media/File:Angular_full_color_logo.svg"/>][Angular]
 [<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>][Azure]
 [<img align="left" alt="ArcGIS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/64px-ArcGIS_logo.png"/>][ArcGIS]
 [<img align="left" alt="Eclipse" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/main/Images/Eclipse%20logo.png"/>][Eclipse]
@@ -60,6 +62,7 @@
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [TSQL]:https://en.wikipedia.org/wiki/Transact-SQL
 
+[Angular]: https://en.wikipedia.org/wiki/Angular_(web_framework)
 [ArcGIS]: https://en.wikipedia.org/wiki/ArcGIS
 [Eclipse]:https://en.wikipedia.org/wiki/Eclipse_(software)
 [Linux]: https://en.wikipedia.org/wiki/Linux
