@@ -4,8 +4,8 @@
 
 ## I'm a Developer and US Navy Veteran!!
 
-- 🌱 I’m currently learning Machine Language in Python and R, UNITY in C#, Graphics Programming in C++ (Using OpenGL (FreeGLUT/GLFW Library) and the UNREAL Engine), Win32 API in C++ and ArcPy for ArcGIS SDK in Python
-- 🥅 2022 Goals: Place my repos of my implementation of the GLFW and the FreeGLUT Library 
+- 🌱 I’m currently improving on my Angular skills and C++ WIN32 API
+- 🥅 2022 Goals: Place my repos of my implementation of Angular
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 ### Connect with me:
 
@@ -23,6 +23,7 @@
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg"/>][R]
 [<img align="left" alt="SSMS" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/main/Images/T-SQL.png" />][TSQL]
+[<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][TypeScript]
  <br />
 ### Tools:
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>][Angular]
@@ -60,6 +61,7 @@
 [R]: https://en.wikipedia.org/wiki/R_(programming_language)
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [TSQL]:https://en.wikipedia.org/wiki/Transact-SQL
+[TypeScript]:https://en.wikipedia.org/wiki/TypeScript
 
 [Angular]: https://en.wikipedia.org/wiki/Angular_(web_framework)
 [ArcGIS]: https://en.wikipedia.org/wiki/ArcGIS
