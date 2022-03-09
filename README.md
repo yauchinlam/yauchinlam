@@ -56,20 +56,20 @@
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]:https://en.wikipedia.org/wiki/CSS
 [JS]:https://en.wikipedia.org/wiki/JavaScript
-[CPP]: https://en.wikipedia.org/wiki/C%2B%2B
-[CS]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-[R]: https://en.wikipedia.org/wiki/R_(programming_language)
-[Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[CPP]: https://github.com/yauchinlam/FirstWin32API
+[CS]: https://github.com/yauchinlam/TheCubeSolver
+[R]: https://github.com/yauchinlam/-Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science
+[Python]: https://github.com/yauchinlam/Binary-Maze-modification
 [TSQL]:https://en.wikipedia.org/wiki/Transact-SQL
-[TypeScript]:https://en.wikipedia.org/wiki/TypeScript
+[TypeScript]:https://github.com/yauchinlam/my-first-app
 
-[Angular]: https://en.wikipedia.org/wiki/Angular_(web_framework)
+[Angular]: https://github.com/yauchinlam/my-first-app
 [ArcGIS]: https://en.wikipedia.org/wiki/ArcGIS
 [Eclipse]:https://en.wikipedia.org/wiki/Eclipse_(software)
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [MATLAB]: https://en.wikipedia.org/wiki/MATLAB
 [NET]:https://en.wikipedia.org/wiki/.NET
-[Azure]: https://en.wikipedia.org/wiki/Microsoft_Azure
+[Azure]: https://sample-yauchinlam.azurewebsites.net/
 [VSC]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [VS]: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 [Unity]:https://en.wikipedia.org/wiki/Unity_(game_engine)
