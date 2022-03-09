@@ -4,7 +4,7 @@
 
 ## I'm a Developer and US Navy Veteran!!
 
-- 🌱 I’m currently improving on my Angular skills and C++ WIN32 API
+- 🌱 I’m currently improving on my Angular skills and C++ WIN32 API skills
 - 🥅 2022 Goals: Place my repos of my implementation of Angular
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 ### Connect with me:
