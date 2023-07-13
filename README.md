@@ -4,8 +4,8 @@
 
 ## I'm a Developer and US Navy Veteran!!
 
-- 🌱 I’m currently improving on my C++/C# skills
-- 🥅 2023 Goals: C++ completion in Udemy, C# Unit Testing in Udemy
+- 🌱 I completed front end development skills in Blazor Web Assembly
+- 🥅 2023 Goals: Learning Machine Learning and AI
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 ### Connect with me:
 
