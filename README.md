@@ -1,4 +1,4 @@
-### Hi there, I'm Yauchin Lam - aka [MCChin][website] 👋
+### Hi there, I'm Yauchin Lam
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LamYauchin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LamYauchin)
 
