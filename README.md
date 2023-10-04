@@ -12,7 +12,6 @@
 [<img align="left" alt="Yauchin Lam | Azure DevOps" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/407px-Crystal_Clear_app_linneighborhood.svg.png" />][website]
 [<img align="left" alt="Yauchin Lam | YouTube" width="22px" src="https://raw.githubusercontent.com/yauchinlam/yauchinlam/main/Images/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 [<img align="left" alt="Yauchin Lam | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="Yauchin Lam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
  <br />
 ### Languages:
 [<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"/>][CPP]
