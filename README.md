@@ -7,12 +7,7 @@
 - 🌱 I completed front end development skills in Blazor Web Assembly
 - 🥅 2023 Goals: Learning Machine Learning and AI
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
-### Connect with me:
 
-[<img align="left" alt="Yauchin Lam | Azure DevOps" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/407px-Crystal_Clear_app_linneighborhood.svg.png" />][website]
-[<img align="left" alt="Yauchin Lam | YouTube" width="22px" src="https://raw.githubusercontent.com/yauchinlam/yauchinlam/main/Images/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
-[<img align="left" alt="Yauchin Lam | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
- <br />
 ### Languages:
 [<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"/>][CPP]
 [<img align="left" alt="CS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" />][CS]
@@ -24,6 +19,7 @@
 [<img align="left" alt="SSMS" width="26px" src="https://github.com/yauchinlam/yauchinlam/blob/main/Images/T-SQL.png" />][TSQL]
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][TypeScript]
  <br />
+
 ### Tools:
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>][Angular]
 [<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>][Azure]
@@ -42,15 +38,7 @@
 
 ---
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=yauchinlam&amp;show_icons=true" alt="GitHub Stats"></p>
 
-</details>
-
-[website]: https://sample-yauchinlam.azurewebsites.net/
-[twitter]: https://twitter.com/LamYauchin
-[youtube]: https://www.youtube.com/channel/UC8kZQmHAmO2gycQxqupX0dg
-[linkedin]: https://www.linkedin.com/in/yauchinlam/
 
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]:https://en.wikipedia.org/wiki/CSS
