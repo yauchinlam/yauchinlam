@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LamYauchin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LamYauchin)
 
-## I'm a Full Stack Software Developer and US Navy Veteran
+## I'm a Full Stack Software Developer
 
 - 🌱 I completed front end development skills in Blazor Web Assembly
 - 🥅 2023 Goals: Learning Machine Learning and AI
