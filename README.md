@@ -1,7 +1,5 @@
 ### Hi there, I'm Yauchin Lam
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/LamYauchin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LamYauchin)
-
 ## I'm a Full Stack Software Developer
 
 - 🌱 I completed front end development skills in Blazor Web Assembly
