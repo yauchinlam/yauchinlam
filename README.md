@@ -3,7 +3,7 @@
 ## I'm a Full Stack Software Developer
 
 - 🌱 I completed front end development skills in Blazor Web Assembly
-- 🥅 2023 Goals: Learning Machine Learning and AI
+- 🥅 2024 Goals: Advancement in understanding of OpenAI
 - ⚡ Fun fact: I like video games like COD:Black OPs Cold War and Super Smash Bros Ultimate
 
 ### Languages:
